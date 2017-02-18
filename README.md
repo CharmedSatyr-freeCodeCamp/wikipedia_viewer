@@ -1,4 +1,4 @@
-# **Wikipedia_Viewer**
+# **Wikipedia Viewer**
 ### **"Build a Wikipedia Viewer"** is a requirement for freeCodeCamp Front End Certification: https://www.freecodecamp.com/challenges/build-a-wikipedia-viewer
 #### **Date Completed**: Mar 16, 2016
 
